@@ -1,2 +1,0 @@
-# Chatbox
-Created with CodeSandbox
